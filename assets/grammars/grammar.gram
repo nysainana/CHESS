@@ -1,0 +1,14 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar 
+ */
+
+grammar grammar;
+ 
+
+public <piece> = (roi | damme | fou | cavalier | chevalier | tour | pion | pions);
+public <letre> = (a | b | c | d | e | f | g | h); 
+public <nombre> = (un | deux | trois | quatre | cinq | six | sept | huit);
+
+public <syntax> = <piece>{1} <letre>{1} <nombre>{1}; 

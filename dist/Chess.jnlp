@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Chess.jnlp">
+  <information>
+    <title>Chess</title>
+    <vendor>Hantamalala</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Chess.jar" size="71549" download="eager" />
+    <jar href="lib\SI_VOX.jar" size="53851" download="eager" />
+    <jar href="lib\core.jar" size="68667" download="eager" />
+    <jar href="lib\dense64.jar" size="285051" download="eager" />
+    <jar href="lib\denseC64.jar" size="61615" download="eager" />
+    <jar href="lib\gluegen-rt-main.jar" size="345" download="eager" />
+    <jar href="lib\gluegen-rt-natives-android-aarch64.jar" size="3347" download="eager" />
+    <jar href="lib\gluegen-rt-natives-android-armv6.jar" size="7218" download="eager" />
+    <jar href="lib\gluegen-rt-natives-linux-amd64.jar" size="4149" download="eager" />
+    <jar href="lib\gluegen-rt-natives-linux-armv6.jar" size="3042" download="eager" />
+    <jar href="lib\gluegen-rt-natives-linux-armv6hf.jar" size="3050" download="eager" />
+    <jar href="lib\gluegen-rt-natives-linux-i586.jar" size="4130" download="eager" />
+    <jar href="lib\gluegen-rt-natives-macosx-universal.jar" size="5076" download="eager" />
+    <jar href="lib\gluegen-rt-natives-solaris-amd64.jar" size="4640" download="eager" />
+    <jar href="lib\gluegen-rt-natives-solaris-i586.jar" size="3949" download="eager" />
+    <jar href="lib\gluegen-rt-natives-windows-amd64.jar" size="8159" download="eager" />
+    <jar href="lib\gluegen-rt-natives-windows-i586.jar" size="7577" download="eager" />
+    <jar href="lib\gluegen-rt.jar" size="345605" download="eager" />
+    <jar href="lib\gson.jar" size="232620" download="eager" />
+    <jar href="lib\j-ogg-all.jar" size="159612" download="eager" />
+    <jar href="lib\jade.jar" size="2791028" download="eager" />
+    <jar href="lib\jinput-platform-natives-linux.jar" size="10362" download="eager" />
+    <jar href="lib\jinput-platform-natives-osx.jar" size="12186" download="eager" />
+    <jar href="lib\jinput-platform-natives-windows.jar" size="155179" download="eager" />
+    <jar href="lib\jinput.jar" size="208338" download="eager" />
+    <jar href="lib\jme3-blender.jar" size="472315" download="eager" />
+    <jar href="lib\jme3-bullet-native.jar" size="8840517" download="eager" />
+    <jar href="lib\jme3-bullet.jar" size="225218" download="eager" />
+    <jar href="lib\jme3-core.jar" size="1893124" download="eager" />
+    <jar href="lib\jme3-desktop.jar" size="272736" download="eager" />
+    <jar href="lib\jme3-effects.jar" size="571829" download="eager" />
+    <jar href="lib\jme3-jogg.jar" size="10462" download="eager" />
+    <jar href="lib\jme3-jogl.jar" size="107689" download="eager" />
+    <jar href="lib\jme3-lwjgl.jar" size="99694" download="eager" />
+    <jar href="lib\jme3-networking.jar" size="191505" download="eager" />
+    <jar href="lib\jme3-niftygui.jar" size="38805" download="eager" />
+    <jar href="lib\jme3-plugins.jar" size="313824" download="eager" />
+    <jar href="lib\jme3-terrain.jar" size="167996" download="eager" />
+    <jar href="lib\jme3-testdata.jar" size="84609596" download="eager" />
+    <jar href="lib\joal-main.jar" size="345" download="eager" />
+    <jar href="lib\joal-natives-android-aarch64.jar" size="160485" download="eager" />
+    <jar href="lib\joal-natives-android-armv6.jar" size="168669" download="eager" />
+    <jar href="lib\joal-natives-linux-amd64.jar" size="190546" download="eager" />
+    <jar href="lib\joal-natives-linux-armv6.jar" size="149170" download="eager" />
+    <jar href="lib\joal-natives-linux-armv6hf.jar" size="149129" download="eager" />
+    <jar href="lib\joal-natives-linux-i586.jar" size="197569" download="eager" />
+    <jar href="lib\joal-natives-macosx-universal.jar" size="359206" download="eager" />
+    <jar href="lib\joal-natives-solaris-amd64.jar" size="10718" download="eager" />
+    <jar href="lib\joal-natives-solaris-i586.jar" size="7658" download="eager" />
+    <jar href="lib\joal-natives-windows-amd64.jar" size="187673" download="eager" />
+    <jar href="lib\joal-natives-windows-i586.jar" size="180018" download="eager" />
+    <jar href="lib\joal.jar" size="66496" download="eager" />
+    <jar href="lib\jocl-main.jar" size="345" download="eager" />
+    <jar href="lib\jocl-natives-android-aarch64.jar" size="12179" download="eager" />
+    <jar href="lib\jocl-natives-android-armv6.jar" size="14047" download="eager" />
+    <jar href="lib\jocl-natives-linux-amd64.jar" size="11196" download="eager" />
+    <jar href="lib\jocl-natives-linux-armv6.jar" size="8519" download="eager" />
+    <jar href="lib\jocl-natives-linux-armv6hf.jar" size="8529" download="eager" />
+    <jar href="lib\jocl-natives-linux-i586.jar" size="11176" download="eager" />
+    <jar href="lib\jocl-natives-macosx-universal.jar" size="24525" download="eager" />
+    <jar href="lib\jocl-natives-solaris-amd64.jar" size="10801" download="eager" />
+    <jar href="lib\jocl-natives-solaris-i586.jar" size="8323" download="eager" />
+    <jar href="lib\jocl-natives-windows-amd64.jar" size="15222" download="eager" />
+    <jar href="lib\jocl-natives-windows-i586.jar" size="13239" download="eager" />
+    <jar href="lib\jocl.jar" size="219608" download="eager" />
+    <jar href="lib\jogl-all-main.jar" size="345" download="eager" />
+    <jar href="lib\jogl-all-natives-android-aarch64.jar" size="64488" download="eager" />
+    <jar href="lib\jogl-all-natives-android-armv6.jar" size="62645" download="eager" />
+    <jar href="lib\jogl-all-natives-linux-amd64.jar" size="224010" download="eager" />
+    <jar href="lib\jogl-all-natives-linux-armv6.jar" size="161199" download="eager" />
+    <jar href="lib\jogl-all-natives-linux-armv6hf.jar" size="164852" download="eager" />
+    <jar href="lib\jogl-all-natives-linux-i586.jar" size="217274" download="eager" />
+    <jar href="lib\jogl-all-natives-macosx-universal.jar" size="443876" download="eager" />
+    <jar href="lib\jogl-all-natives-solaris-amd64.jar" size="220298" download="eager" />
+    <jar href="lib\jogl-all-natives-solaris-i586.jar" size="161229" download="eager" />
+    <jar href="lib\jogl-all-natives-windows-amd64.jar" size="240721" download="eager" />
+    <jar href="lib\jogl-all-natives-windows-i586.jar" size="209445" download="eager" />
+    <jar href="lib\jogl-all.jar" size="3414448" download="eager" />
+    <jar href="lib\jsr305.jar" size="31866" download="eager" />
+    <jar href="lib\jutils.jar" size="7508" download="eager" />
+    <jar href="lib\lwjgl-platform-natives-linux.jar" size="578675" download="eager" />
+    <jar href="lib\lwjgl-platform-natives-osx.jar" size="426817" download="eager" />
+    <jar href="lib\lwjgl-platform-natives-windows.jar" size="613744" download="eager" />
+    <jar href="lib\lwjgl.jar" size="1053471" download="eager" />
+    <jar href="lib\nifty-default-controls.jar" size="263472" download="eager" />
+    <jar href="lib\nifty-examples.jar" size="20965562" download="eager" />
+    <jar href="lib\nifty-style-black.jar" size="74473" download="eager" />
+    <jar href="lib\nifty.jar" size="785564" download="eager" />
+    <jar href="lib\simple.jar" size="12240" download="eager" />
+    <jar href="lib\sphinx4-core-5prealpha.jar" size="1259793" download="eager" />
+    <jar href="lib\sphinx4-data-5prealpha.jar" size="35643722" download="eager" />
+    <jar href="lib\xpp3.jar" size="120069" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Chess" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="mg.njaka.chess.Chess"  name="Chess" />
+  <update check="always"/>
+</jnlp>
